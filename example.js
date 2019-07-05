@@ -1,1 +1,1 @@
-const name = "git";
+const name = "git flow";
