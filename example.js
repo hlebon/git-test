@@ -1,4 +1,4 @@
 const name = "git flow ";
-function suma(a, b) {
-  return a + b;
+function suma(a, c) {
+  return a + c;
 }
